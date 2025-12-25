@@ -1,0 +1,16 @@
+TCF7L2 Clinically Significant Variants (from dbSNP)
+======================================================================
+RSID         Alleles         Function Class            Clinical Significance
+----------------------------------------------------------------------------------------------------
+rs2544045443 N/A             frameshift_variant,coding_sequence_variant pathogenic
+rs2137179429 N/A             coding_sequence_variant,missense_variant,synonymous_variant,stop_gained pathogenic
+rs2137178349 A               coding_sequence_variant,missense_variant,stop_gained pathogenic
+rs2137155220 N/A             coding_sequence_variant,missense_variant,stop_gained pathogenic
+rs2136838531 N/A             splice_acceptor_variant   pathogenic
+rs12255372   G/T             intron_variant,genic_upstream_transcript_variant risk-factor
+rs7903146    C/T             intron_variant,genic_upstream_transcript_variant risk-factor,likely-risk-allele
+rs11196205   C/G/T           intron_variant,genic_upstream_transcript_variant risk-factor
+rs11196205   C/G/T           intron_variant,genic_upstream_transcript_variant risk-factor
+rs12255372   G/T             intron_variant,genic_upstream_transcript_variant risk-factor
+rs11196205   C/G/T           intron_variant,genic_upstream_transcript_variant risk-factor
+rs7903146    C/T             intron_variant,genic_upstream_transcript_variant risk-factor,likely-risk-allele

@@ -1,0 +1,15 @@
+TCF7L2 Sequence Analysis Report
+========================================
+
+Accession: CR536574.1
+Description: CR536574.1 Homo sapiens full open reading frame cDNA clone RZPDo834H0722D for gene TCF7L2, transcription factor 7-like 2 (T-cell specific, HMG-box); complete cds, incl. stopcodon
+
+Sequence Length: 1791 bases
+GC Content: 56.39%
+
+First 200 bases:
+ATGCCGCAGCTGAACGGCGGTGGAGGGGATGACCTAGGCGCCAACGACGAACTGATTTCCTTCAAAGACGAGGGCGAACAGGAGGAGAAGAGCTCCGAAAACTCCTCGGCAGAGAGGGATTTAGCTGATGTCAAATCGTCTCTAGTCAATGAATCAGAAACGAATCAAAACAGCTCCTCCGATTCCGAGGCGGAAAGACG
+
+Biological Note:
+TCF7L2 is a key transcription factor in the Wnt pathway and strongly associated with type 2 diabetes risk.
+Common variant rs7903146 (T allele) reduces insulin secretion in response to glucose.
